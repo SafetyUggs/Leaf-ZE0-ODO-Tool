@@ -4,4 +4,6 @@ Requires a J2534 passthrough device (Connect to your obd2 port).
 
 I recommend an aliexpress Godiag GD101 or VNCI Nano passthrough.
 
+Android APK requires an ELM327 adaptor, V2.5 or higher. You can download the signed version in play
+
 Buy me a coffee - help support development : https://ko-fi.com/safetyuggs
